@@ -1,0 +1,6 @@
+{
+  "name": "IBC 2026 - International Biotechnology Conference (Coming Soon)",
+  "description": "Official coming soon and early registration portal for the 2nd International Biotechnology Conference 2026, hosted by University of Chittagong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
